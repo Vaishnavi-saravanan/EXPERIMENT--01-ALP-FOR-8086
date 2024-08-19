@@ -1,4 +1,4 @@
-![Screenshot 2024-08-19 132424](https://github.com/user-attachments/assets/f5753468-2cdf-42c7-97dc-b9ec2c1fe2cc)# EXPERIMENT--01-ALP-FOR-8086
+# EXPERIMENT--01-ALP-FOR-8086
 Name : VAISHNAVI S
 Roll no : 21222230165
 Date of experiment : 16/08/2024
