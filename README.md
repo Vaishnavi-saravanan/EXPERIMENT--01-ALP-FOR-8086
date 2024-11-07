@@ -1,9 +1,8 @@
 # EXPERIMENT--01-ALP-FOR-8086
-```
-Name : VAISHNAVI S
-Roll no : 21222230165
-Date of experiment : 16/08/2024
-```
+# Name : VAISHNAVI S
+# Reg no : 21222230165
+# Date : 
+
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
